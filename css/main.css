@@ -6,6 +6,11 @@
     --merriweather: 'Merriweather', serif;
 }
 
+.wrapper {
+    max-width:1000px;
+    margin:0 auto;
+}
+
 html, body {
     color: var(--black);
     font-family: var(--raleway);
@@ -86,6 +91,10 @@ img {
     color: var(--light-grey);
 }
 
+.cite {
+    font-size: 0.7rem;
+}
+
 .center-flex {
     display: flex;
     align-items: center;
@@ -93,7 +102,7 @@ img {
     margin: 0;
 }
 
-.height-100 {
+.height-150 {
     height:150px;
 }
 
