@@ -45,15 +45,6 @@ html, body {
     justify-content: space-around;
 }
 
-.flex-center {
-    align-items: center;
-    justify-content: center;
-}
-
-.flex-100 {
-    flex: 1 100%;
-}
-
 .flex-33 {
     flex: 1 33%;
 }
@@ -64,10 +55,6 @@ html, body {
 
 .w-100 {
     width: 100px;
-}
-
-.inline-block {
-    display: inline-block;
 }
 
 img {
