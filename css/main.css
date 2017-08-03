@@ -87,8 +87,8 @@ img {
 
 .featured {
     font-weight: lighter;
-    font-size: 1.2rem;
-    color: var(--light-grey);
+    text-align: center;
+    color: var(--light-blue);
 }
 
 .cite {
@@ -115,4 +115,5 @@ img {
 
 .innerwrap {
     max-width:960px;
+    margin: 0 auto;
 }
